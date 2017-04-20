@@ -1,4 +1,7 @@
-# test coverage for  [coap (v0.21.0)](https://github.com/mcollina/node-coap#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-coap.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-coap) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-coap.svg)](https://travis-ci.org/npmtest/node-npmtest-coap)
+# npmtest-coap
+
+#### basic test coverage for  [coap (v0.21.0)](https://github.com/mcollina/node-coap#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-coap.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-coap) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-coap.svg)](https://travis-ci.org/npmtest/node-npmtest-coap)
+
 #### A CoAP library for node modelled after 'http'
 
 [![NPM](https://nodei.co/npm/coap.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/coap)
